@@ -8,3 +8,4 @@ What are the assumptions of a model:
 * final share of voters of candidate Z (from first tour). total_x, in result of candidate X in second is a multiple of level of support for candidate X and turnout for this group of voters.
 * finally,  sum of all total_x[i] * turnout[i] * votes_from_first_round[i] = number of votes for X in second round, where i - index of each different group of voters
 
+See here result, in Ukrainian: http://texty.org.ua/pg/article/devrand/read/93486/
