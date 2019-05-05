@@ -1,5 +1,5 @@
 # bayes_vote_transfer 
-Use bayesian linear regression to find how many voters for each candidates in first round of election, voted for candidate X in second round?  Based on real data from each poll station on Ukrainian presidential election-2019.
+Use bayesian linear regression to find how many voters for each candidate in first round of election, voted for candidate X in second round?  Based on real data from each poll station on Ukrainian presidential election-2019.
 
 What are the assumptions of a model:
 * all standart assumptions for bayesian linear regression
