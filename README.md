@@ -10,7 +10,7 @@ What are the assumptions of a model:
 
 
 ## Result for Zelensky
-![Donors for Z](img/ze.png | width=50%)
+![Donors for Z](img/ze.png | width=500)
 
 ## Result Poroshenko 
 ![Donors for P](img/pe.png)
