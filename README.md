@@ -15,7 +15,7 @@ What are the assumptions of a model:
 ## Result for Poroshenko 
 <img src="img/pe.png" width="50%" />
 
-Also, see here in Ukrainian: http://texty.org.ua/pg/article/devrand/read/93486/
-                             http://texty.org.ua/pg/article/editorial/read/93795
-                             
-[слайди](https://docs.google.com/presentation/d/1cYotHWWZKman5_vH4eT6vHfN0hmTMbKQhwrmLt8plvk/edit?usp=sharing)                             
+Also, see here in Ukrainian: 
+* http://texty.org.ua/pg/article/devrand/read/93486/
+* http://texty.org.ua/pg/article/editorial/read/93795
+* [слайди](https://docs.google.com/presentation/d/1cYotHWWZKman5_vH4eT6vHfN0hmTMbKQhwrmLt8plvk/edit?usp=sharing)                             
